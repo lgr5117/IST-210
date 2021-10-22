@@ -1,2 +1,2 @@
-# Practice
-Practicing How This Works
+# IST 210 Assignments
+ER Diagrams, SQL
